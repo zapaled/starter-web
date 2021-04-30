@@ -7,3 +7,5 @@ purpose
 1234
 ##how to contribute
 
+##copyright
+ito ang copyright
